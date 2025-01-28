@@ -12,6 +12,9 @@ I am BwE of betterwayelectronics.com.au and I have been creating software to val
 ## What is this for? ##
 Parse the PS3 Syscon Error Codes into a meaningful description easily and quickly.
 
+## Offline? ##
+This program is not intended to be updated often and has no license or DRM so it has no need for the internet whatsoever.
+
 ## What do I need to get going? ##
 I don't know!
 
